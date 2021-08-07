@@ -1,0 +1,5 @@
+ventasDOM [ laravel - Livewire - bootstrap ]
+
+1	laravel new ventasDOM
+2	composer require laravel/ui
+3	php artisan ui bootstrap
