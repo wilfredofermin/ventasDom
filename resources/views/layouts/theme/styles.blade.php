@@ -20,6 +20,10 @@ aside {
     background-color: #3b3f5c;
 }
 
+a:link, a:visited, a:active {
+            text-decoration:none;
+        }
+
 @media (min-width: 480px) {
 
 

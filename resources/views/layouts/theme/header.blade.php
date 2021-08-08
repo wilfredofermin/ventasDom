@@ -15,7 +15,7 @@
 
         @include('layouts.theme.user-profile-dropdown')
 
-        @include('layouts.theme.cs-toggle')
+        <!-- @include('layouts.theme.cs-toggle') -->
 
     </ul>
 
