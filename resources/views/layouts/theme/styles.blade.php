@@ -7,6 +7,7 @@
 
 <!-- BEGIN PAGE LEVEL PLUGINS/CUSTOM STYLES -->
 <link href="{{asset('assets/css/default-dashboard/style.css')}}" rel="stylesheet" type="text/css" />
+<link href="{{asset('plugins/file-upload/file-upload-with-preview.css')}}" rel="stylesheet" type="text/css">
 
 <style>
 

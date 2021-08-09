@@ -17,6 +17,7 @@
 <script src="{{asset('plugins/notification/snackbar/snackbar.min.js')}}"></script>
 <script src="{{asset('plugins/progressbar/progressbar.min.js')}}"></script>
 <script src="{{asset('assets/js/default-dashboard/default-custom.js')}}"></script>
+<script src="{{asset('plugins/file-upload/file-upload-with-preview.js')}}"></script>
 <script src="{{asset('assets/js/support-chat.js')}}"></script>
 
 <script>
